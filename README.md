@@ -1,8 +1,8 @@
 # 🌐 QR Code Generator
-
+So stepping into Backend was a tough task in itself but i gave it a shot, i knew nothing before creating this about backend, went through node js, express js documentations a lot of times to get through it understand a bit and hence im here with:
 A stylish, full-stack **QR Code Generator** web app built using **Node.js, Express**, and vanilla **HTML/CSS/JS**.  
 Live here 👉 [https://qr-code-generator-3ft4.onrender.com](https://qr-code-generator-3ft4.onrender.com)
-
+This is nothing but a small step into the journey of full-stack development.
 -------------------------------------------------------------------------------
 
 ## ✨ Features
