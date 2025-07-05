@@ -31,7 +31,7 @@ This is nothing but a small step into the journey of full-stack development.
 
 1. **Clone the repository**
 
-```bash
+
 git clone https://github.com/your-username/qr-code-generator.git
 cd qr-code-generator
 Install dependencies
